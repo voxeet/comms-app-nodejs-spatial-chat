@@ -20,7 +20,7 @@ $('#btn-video-off').click(async () => {
     }
 });
 
-$('#btn-unmute').click(async () => {
+$('#btn-unmute').click(() => {
     try {        
         VoxeetSDK.conference.mute(VoxeetSDK.session.participant, false);
 

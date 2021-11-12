@@ -94,8 +94,6 @@ const setSpatialEnvironment = () => {
  * @param participant Participant to position on the spatial scene.
  */
 const setSpatialPosition = (participant) => {
-    if (!VoxeetSDK.conference.current) return; // TODO: Remove this!
-
     // Look for the participant element
     const videoContainer = $(`[data-participant-id="${participant.id}"]`);
     if (!videoContainer.length) return;
