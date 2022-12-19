@@ -22,11 +22,11 @@ You first must install the package dependencies by running the command:
 npm install
 ```
 
-Create a file called `.env` in your application folder and set the consumer key and secret that you got from your dolby.io dashboard.
+Create a file called `.env` in your application folder and set the application key and secret that you got from your dolby.io dashboard.
 
 ```
-CONSUMER_KEY=<YOUR_CONSUMER_KEY_HERE>
-CONSUMER_SECRET=<YOUR_CONSUMER_SECRET_HERE>
+APP_KEY=<YOUR_APP_KEY_HERE>
+APP_SECRET=<YOUR_APP_SECRET_HERE>
 ```
 
 Run the web server using the `npm` command:
