@@ -1,5 +1,5 @@
 ![](https://dolby.io/wp-content/uploads/2021/11/spatial-app-layout-2048x1161.png)
-# Enable Spatial Audio in your web applications
+# Enable Spatial Audio in your Web Applications
 
 ##Overview
 At Dolby.io, we aim to deliver the best experience for your real-time communication needs. We have introduced the Spatial Audio capability in the Dolby.io Communications APIs as the most recent step to make your end user’s experience better. This allows you to place conference participants in a 3D rendered audio scene and hear the participants from the given locations.
