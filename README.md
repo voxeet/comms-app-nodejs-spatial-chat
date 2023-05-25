@@ -61,7 +61,7 @@ If there are any suggestions or if you would like to deliver any positive notes,
 - [Dolby.io Spatial Chat](https://docs.dolby.io/communications-apis/docs/guides-spatial-chat)
 - [Integrating Shared Spatial Chat](https://docs.dolby.io/communications-apis/docs/guides-integrating-shared-spatial-chat)
 
-#### - Open Source Projects
+#### Open Source Projects
 
 This sample application is using the following Open Source projects:
 - [Bootstrap](https://getbootstrap.com)
@@ -69,7 +69,7 @@ This sample application is using the following Open Source projects:
 - [JQuery](https://jquery.com)
 - [Express](https://expressjs.com/)
 
-#### - Avatar images
+#### Avatar images
 
 The avatar images are made by [photo3idea_studio](https://www.flaticon.com/authors/photo3idea-studio) and [Freepik](https://www.freepik.com) from [www.flaticon.com](https://www.flaticon.com/).
 
