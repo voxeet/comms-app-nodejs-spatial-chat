@@ -1,4 +1,5 @@
-![](https://dolby.io/wp-content/uploads/2021/11/spatial-app-layout-2048x1161.png)
+# :warning: This repository is no longer maintained :warning:
+
 # Enable Spatial Audio in your Web Applications
 
 ##Overview
